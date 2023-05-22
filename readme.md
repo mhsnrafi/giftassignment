@@ -4,7 +4,6 @@ Your task is to build an API in Go that can be used to assign gifts to employees
 ## Requirements
 - Go 1.16+
 - Gorilla web toolkit v1.8.0
-- Shopspring Decimal package v1.6.0
 
 ## Installation
 1. Clone the repository `git clone https://github.com/mhsnrafi/giftassignment.git`
